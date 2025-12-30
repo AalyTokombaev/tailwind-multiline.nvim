@@ -41,7 +41,7 @@ But you want this:
 
 ```lua
 {
-  "alexanderiversen/tailwind-multiline.nvim",
+  "AalyTokombaev/tailwind-multiline.nvim",
   ft = { "javascript", "javascriptreact", "typescript", "typescriptreact", "vue", "svelte", "astro" },
   opts = {},
 }
@@ -51,7 +51,7 @@ But you want this:
 
 ```lua
 {
-  "alexanderiversen/tailwind-multiline.nvim",
+  "AalyTokombaev/tailwind-multiline.nvim",
   ft = { "javascriptreact", "typescriptreact" },
   opts = {
     keymaps = {
@@ -67,7 +67,7 @@ But you want this:
 
 ```lua
 {
-  "alexanderiversen/tailwind-multiline.nvim",
+  "AalyTokombaev/tailwind-multiline.nvim",
   ft = { "typescriptreact", "javascriptreact" },
   opts = {
     keymaps = {
@@ -82,7 +82,7 @@ But you want this:
 
 ```lua
 {
-  "alexanderiversen/tailwind-multiline.nvim",
+  "AalyTokombaev/tailwind-multiline.nvim",
   ft = { "typescriptreact", "javascriptreact" },
   opts = {
     keymaps = {
